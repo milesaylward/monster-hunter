@@ -5,7 +5,9 @@ A simple Monster fighting game built while learning Vue.js
 ## Installation
 
 No install process just uses vue cdn and the local js and css files.
-Clone the Repo and open the index.html in your chrome browser. No polyfills due to not using webpack so may behave unexpectedly in non Chrome browser.
+Clone the Repo and open the index.html in your chrome browser. No polyfills due to not using webpack so may behave unexpectedly in non Chrome browser.  
+
+or head over to [here](https://milesaylward.github.io/monster-hunter/) to play now!
 
 ## Usage
 
